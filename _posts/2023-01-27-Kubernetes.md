@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 # Kubernetes troubleshooting
 ## Troubleshooting DNS issues
 There are a few ways to check the DNS settings of your Kubernetes (K8s) cluster:
